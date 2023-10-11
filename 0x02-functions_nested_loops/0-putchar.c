@@ -3,17 +3,17 @@
 #include "main.h"
 
 /**
- * main - entry point of the program
+ * main - Entry point of the program
  *
- * Description: program that prints "_putchar" followed by a new line
+ * Description: A program that prints "_putchar" followed by a new line.
  *
- * Return: 0
+ * Return: Always 0
  */
-
-int main (void)
+int main(void)
 {
-	printf("_putchar\n");
-	return(0);
+    printf("_putchar\n");
+    return (0);
 }
+
 
 
