@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
+void print_alphabet(void);
 void _puts(char *str);
 void print_rev(char *s);
 void rev_string(char *s);
