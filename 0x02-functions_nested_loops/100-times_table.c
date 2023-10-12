@@ -1,6 +1,3 @@
-You can create a function to print the n times table, starting with 0, following the given prototype and format. Here's the implementation:
-
-```c
 #include "main.h"
 #include <stdio.h>
 
